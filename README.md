@@ -35,7 +35,7 @@ Install [hugo](https://gohugo.io/getting-started/installing/) there is a binary 
 Then clone the source branch from this repository to your local device
 
 ```bash
-git clone --single-branch --branch master https://github.com/TCNCoalition/website.git
+git clone --single-branch --branch master https://github.com/butterking1011/TCN-Coalition-website.git
 ```
 
 ## Step 3
